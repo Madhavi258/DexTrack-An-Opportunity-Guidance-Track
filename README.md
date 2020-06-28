@@ -17,7 +17,9 @@ This Track can be used for Opportunity Guidance, User can enter name of competit
 2.Admin Panel:
 ----------------
 This module can be only handled by admin who is able to include new opportunity and details of it. Admin is able to add new data into system like competition name, required skills, suggested courses, approximate duration of competition on which competition is held. When admin add new opportunity, it will be directly reflected in DexTrack module which will be used by every user.
+
 <p align="center">
   <img width="660" height="500" src="Images/DeploymentDiagram.png">
 </p>
+
 To create our better career, opportunities are really very important but it is beneficial, if we utilize it in well manner with proper planning and for that, guidance are required. In DexConnect, I create one more platform called DexTrack which helps individuals to get track/ guidance for the opportunity, well in advance. So that they prepare well and get benefits of opportunities with given suggested courses and skills.
