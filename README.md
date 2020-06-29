@@ -47,6 +47,6 @@ Dextrack/include/checklogin.php: on enter of admin module, it checks user is log
 
 <h4>Files for DexTrack:</h4>
 
-DexTrack/track-search.php: usd to search for opportunity guidance
+DexTrack/track-search.php: used to search for opportunity guidance
 
 DexTrack/include/trackheader.php: used for DexTrack header
