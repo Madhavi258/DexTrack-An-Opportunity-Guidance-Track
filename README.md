@@ -23,3 +23,30 @@ This module can be only handled by admin who is able to include new opportunity 
 </p>
 
 To create our better career, opportunities are really very important but it is beneficial, if we utilize it in well manner with proper planning and for that, guidance are required. In DexConnect, I create one more platform called DexTrack which helps individuals to get track/ guidance for the opportunity, well in advance. So that they prepare well and get benefits of opportunities with given suggested courses and skills.
+
+<h4>Demonstration: https://drive.google.com/file/d/16SCp2IKn1yw-fZqd88WLq20LGo-Xh2t1/view?usp=sharing </h4>
+
+
+Files Introduction:
+-------------------
+DexTrack/include/config.php: used to connect with database
+
+Database file: DexTrack/include/Dexterity.sql
+
+For images, js, css & bootstrap files refer zip files.
+
+<h4>Files for Admin Module:</h4>
+
+DexTrack/index.php: login page of Admin
+
+DexTrack/add-track.php: to add new information for DexTrack
+
+DexTrack/include/adminheader.php: used to create header of admin module
+
+Dextrack/include/checklogin.php: on enter of admin module, it checks user is logged in or not, if not it navigates to index.php
+
+<h4>Files for DexTrack:</h4>
+
+DexTrack/track-search.php: usd to search for opportunity guidance
+
+DexTrack/include/trackheader.php: used for DexTrack header
