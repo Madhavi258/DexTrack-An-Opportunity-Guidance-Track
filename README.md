@@ -24,7 +24,7 @@ This module can be only handled by admin who is able to include new opportunity 
 
 To create our better career, opportunities are really very important but it is beneficial, if we utilize it in well manner with proper planning and for that, guidance are required. In DexConnect, I create one more platform called DexTrack which helps individuals to get track/ guidance for the opportunity, well in advance. So that they prepare well and get benefits of opportunities with given suggested courses and skills.
 
-<h4>Demonstration: https://drive.google.com/file/d/16SCp2IKn1yw-fZqd88WLq20LGo-Xh2t1/view?usp=sharing </h4>
+<h4>Demonstration: https://drive.google.com/file/d/13dtHpNTIz6LJR0zlcUJ0D18DxLI1JOF1/view?usp=sharing </h4>
 
 
 Files Introduction:
